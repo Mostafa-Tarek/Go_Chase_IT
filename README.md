@@ -2,7 +2,7 @@
 # Go Chase IT
 **The goal of this project is to design and build a mobile robot that is capable of chasing and following white colored balls.**
 
-![Chase_the_ball](/images/chase_the_ball.gif)
+![Chase_the_ball](chase_the_ball.gif)
 
 # Project Setup
 

@@ -15,8 +15,9 @@ $ catkin_init_workspace
 ```
 
 **Next, download the packages within this repository called 'my_robot' and 'ball_chaser':**
+
 `
-$ download Go_Chase_it.zip package
+$ download Go_Chase_IT.zip package
 `
 **Then, build the packages:**
 ```

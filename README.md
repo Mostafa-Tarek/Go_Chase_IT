@@ -19,7 +19,9 @@ $ catkin_init_workspace
 `
 $ download Go_Chase_IT.zip package
 `
+
 **Then, build the packages:**
+
 ```
 $ cd ..
 `$ catkin_make

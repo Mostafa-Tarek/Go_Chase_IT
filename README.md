@@ -1,4 +1,3 @@
-﻿[![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 # Go Chase IT
 **The goal of this project is to design and build a mobile robot that is capable of chasing and following white colored balls.**
 
